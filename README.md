@@ -41,5 +41,5 @@ REPORT
 - Any move that would cause Pacman to fall must be ignored.
 
 ## Approach
-For this challenge, I chose to use ruby.
-To use the test input in 'test_pacman.rb', use the command "ruby test_pacman.rb" in your terminal. 
+For this challenge, I chose to use ruby 2.5.1.
+To use the test inputs in 'test_pacman.rb', run the file in your terminal using `ruby test_pacman.rb`.
